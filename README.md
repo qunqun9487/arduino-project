@@ -1,16 +1,25 @@
 # arduino-project
 
 
-## need to import
-# sys
-# time	
-# random	
-# subprocess	
-# threading	
-#pygame	
-#serial	
-#pyautogui	
-#PyQt5
+need to import
+
+sys
+
+time	
+
+random	
+
+subprocess	
+
+threading	
+
+pygame	
+
+serial	
+
+pyautogui	
+
+PyQt5
 
 
 ## Features
