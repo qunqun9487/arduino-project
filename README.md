@@ -1,6 +1,6 @@
-### arduino-project
+# arduino-project
 
-# Arduino and Python Integration
+## Arduino and Python Integration
 
 This project demonstrates how to work with an Arduino (`combine.ino`) and a Python application (`main_menu.py`) simultaneously.
 
