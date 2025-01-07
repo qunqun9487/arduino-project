@@ -1,26 +1,6 @@
 # arduino-project
 
 
-need to import
-
-sys
-
-time	
-
-random	
-
-subprocess	
-
-threading	
-
-pygame	
-
-serial	
-
-pyautogui	
-
-PyQt5
-
 
 ## Features
 - **Joystick Input**: Reads real-time X and Y axis values and button states.
@@ -51,3 +31,26 @@ PyQt5
    - `GND` -> `GND`
    - `SDA` -> `A4` (Uno) or `D20` (Mega)
    - `SCL` -> `A5` (Uno) or `D21` (Mega)
+
+##python
+need
+
+need to import
+
+sys
+
+time	
+
+random	
+
+subprocess	
+
+threading	
+
+pygame	
+
+serial	
+
+pyautogui	
+
+PyQt5
