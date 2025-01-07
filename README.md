@@ -32,9 +32,7 @@
    - `SDA` -> `A4` (Uno) or `D20` (Mega)
    - `SCL` -> `A5` (Uno) or `D21` (Mega)
 
-##python
-need
-
+## python
 need to import
 
 sys
